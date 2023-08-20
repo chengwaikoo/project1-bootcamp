@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/wheres-that/static/css/main.3cce751e.css",
-    "main.js": "/wheres-that/static/js/main.0ccd4224.js",
-    "static/media/crosshair.cur": "/wheres-that/static/media/crosshair.e845870b424daa340d35.cur",
+    "main.css": "/wheres-that/static/css/main.8e1bdced.css",
+    "main.js": "/wheres-that/static/js/main.989fcf10.js",
+    "static/js/637.ab191211.chunk.js": "/wheres-that/static/js/637.ab191211.chunk.js",
+    "static/js/594.293d7d3b.chunk.js": "/wheres-that/static/js/594.293d7d3b.chunk.js",
+    "static/media/crosshair-dark.cur": "/wheres-that/static/media/crosshair-dark.073f53d0d9d4aea82de5.cur",
+    "static/media/crosshair.cur": "/wheres-that/static/media/crosshair.65e1a2e831d6f234ff07.cur",
     "index.html": "/wheres-that/index.html",
-    "main.3cce751e.css.map": "/wheres-that/static/css/main.3cce751e.css.map",
-    "main.0ccd4224.js.map": "/wheres-that/static/js/main.0ccd4224.js.map"
+    "main.8e1bdced.css.map": "/wheres-that/static/css/main.8e1bdced.css.map",
+    "main.989fcf10.js.map": "/wheres-that/static/js/main.989fcf10.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cce751e.css",
-    "static/js/main.0ccd4224.js"
+    "static/css/main.8e1bdced.css",
+    "static/js/main.989fcf10.js"
   ]
 }
